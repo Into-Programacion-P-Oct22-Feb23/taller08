@@ -61,8 +61,10 @@ N°		x2		x3		x4
 ### Problema03
 
 Genere una solución en JAVA que permita presentar una tabla de 20 conversiones de temperatura de Fahrenheit a Celsius. La tabla deberá comenzar con un valor Fahrenheit de 20 grados e incrementarse en valores de 4 grados.
-Se recomienda usar la fórmula
+Se recomienda usar la fórmula:
 
-Al final se debe presentar todo en una variable acumuladora.
+![https://raw.githubusercontent.com/Into-Programacion-P-Oct22-Feb23/taller08/main/imgs/CodeCogsEqn.png](https://raw.githubusercontent.com/Into-Programacion-P-Oct22-Feb23/taller08/main/imgs/CodeCogsEqn.png)
+
+Al final se debe presentar todo en una variable **acumuladora**.
 
 >Ejercicio tomado de Herrera, A. M. (2015). Diseño y construcción de algoritmos. Ediciones de la U.
